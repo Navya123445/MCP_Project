@@ -1,0 +1,93 @@
+{
+  "dcfb3ecd-d69e-48e1-832d-777b02d77a81": {
+    "guest_profile": {
+      "id": 1,
+      "first_name": "Vihaan",
+      "last_name": "Sharma",
+      "email": "vihaansharma@example.in",
+      "gender": "Male",
+      "phone_number": 6734007000,
+      "preferred_language": "Bengali",
+      "check_in_date": "02/26/2021",
+      "purpose_of_visit": "Wedding",
+      "Stay_days_number": 4,
+      "room_number": 119,
+      "place_of_origin": "Mumbai",
+      "room_type": "suite",
+      "special_requests": "particular medicines, extra beds",
+      "amenities_used": "sauna",
+      "profession": "Marketing Manager",
+      "extra_activities_booked": "birdwatching tours",
+      "loyalty_member": "New",
+      "payment_method": "credit card",
+      "total_bill": 8533.99,
+      "Feedback and issues raised": "Disappointed with our stay.",
+      "contextual_insights": {
+        "room_preferences": {
+          "room_category": "luxury",
+          "space_preference": "spacious",
+          "privacy_level": "standard",
+          "luxury_inclination": "high",
+          "special_needs": []
+        },
+        "lifestyle_profile": {
+          "activity_level": "moderate",
+          "wellness_focus": "low",
+          "business_orientation": "high",
+          "social_preference": "high",
+          "interests": [
+            "business_facilities",
+            "executive_services",
+            "networking",
+            "cultural_experiences",
+            "local_tours"
+          ]
+        },
+        "satisfaction_insights": {
+          "overall_sentiment": "neutral",
+          "service_sensitivity": "moderate",
+          "complaint_patterns": [],
+          "praise_patterns": [],
+          "attention_to_detail": "high"
+        },
+        "loyalty_behavior": {
+          "loyalty_tier": "New",
+          "spending_category": "moderate",
+          "payment_behavior": "convenient",
+          "value_perception": "moderate",
+          "retention_probability": "opportunity"
+        },
+        "service_patterns": {
+          "service_usage_level": "moderate-high",
+          "service_categories": [
+            "experiential"
+          ],
+          "engagement_style": "moderate",
+          "service_expectations": "detailed"
+        },
+        "personality_indicators": {
+          "communication_style": "standard",
+          "detail_orientation": "high",
+          "social_preference": "moderate",
+          "assertiveness": "moderate"
+        }
+      },
+      "recommendation_drivers": [
+        "moderate_value_guest",
+        "experience_seeker"
+      ]
+    },
+    "contextual_insights": null,
+    "last_updated": 1752123835.222732,
+    "activity": "Active - AI Profile Loaded",
+    "conversation_context": [
+      {
+        "user_message": "Load my profile - I'm Vihaan Sharma",
+        "timestamp": "2025-07-10T10:33:55.195846",
+        "context": {
+          "guest_name": "Vihaan Sharma"
+        }
+      }
+    ]
+  }
+}
