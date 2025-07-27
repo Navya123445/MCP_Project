@@ -1,2 +1,2 @@
 # MCP_Project
-designing and implementing a Context Aware Guest Experience Agent using the Model Context Protocol (MCP) for the hospitality sector.
+Designing and Implementing a Context Aware Guest Experience Agent using the Model Context Protocol (MCP) for the hospitality sector.
